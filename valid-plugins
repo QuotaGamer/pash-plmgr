@@ -1,8 +1,0 @@
-{
-    "commenta": "the true or false means if the plugin is first-party, or maintained.",
-    "plmgr.py": true, "commentb":"if the plugin is first-party: true. if it is not, then it'd",
-    "exiter.py": true, "commentc": "be about if the plugin is maintained or not instead.",
-    "print.py": true,
-    "shell.py": true,
-    "template.py": true
-}
