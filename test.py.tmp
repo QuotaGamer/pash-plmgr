@@ -1,6 +1,0 @@
-import os
-os.system("echo yo wassup")
-if not os.path.exists("uwu"):
-    os.mkdir("uwu")
-else:
-    print("owo")
